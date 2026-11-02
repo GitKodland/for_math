@@ -75,6 +75,17 @@ const questions = {
     "sembilan ratus sembilan puluh sembilan",
     "delapan puluh empat",
     "enam puluh tujuh"
+  ],
+    portuguese: [
+    "duzentos e dois",
+    "trezentos e quinze",
+    "quatro mil e seis",
+    "quinhentos",
+    "setecentos e setenta e sete",
+    "mil e um",
+    "novecentos e noventa e nove",
+    "oitenta e quatro",
+    "sessenta e sete"
   ]
 };
 
@@ -85,7 +96,8 @@ const answers = {
   italian: ["202", "315", "4006", "500", "777", "1001", "999", "84", "67"],
   polish: ["202", "315", "4006", "500", "777", "1001", "999", "84", "67"],
   turkish: ["202", "315", "4006", "500", "777", "1001", "999", "84", "67"],
-  indonesian: ["202", "315", "4006", "500", "777", "1001", "999", "84", "67"]
+  indonesian: ["202", "315", "4006", "500", "777", "1001", "999", "84", "67"],
+  portuguese: ["202", "315", "4006", "500", "777", "1001", "999", "84", "67"]
 };
 
 let selectedQuestions = questions.english; // default to English
